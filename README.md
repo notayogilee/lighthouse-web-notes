@@ -2,5 +2,5 @@
 
 # Summary
 
-This repository contains all of the notes taken by Lee for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Lee](https://github.com/notayogilee/lighthouse-web-notes) for the Lighthouse Labs Web Development Bootcamp.
 
